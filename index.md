@@ -2,6 +2,8 @@
 title: "Accueil"
 order: 0
 ---
+![logo la Palette](images/LA PALETTE logo noir.png)
+
 # La Palette
 Un tiers-lieu culturel en construction à Longvilliers
 
