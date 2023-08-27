@@ -19,3 +19,5 @@ Un jour il y aura aussi un espace de coworking, une épicerie locale et tous les
 Pour y parvenir, nous prévoyons de mettre en place de nouvelles infrastructures propices aux rencontres et aux échanges autour de spectacles et d'activités portées à la fois par notre équipe coordonnatrice et par les habitants du territoire.
 
 Nous sommes fermement convaincus que la culture joue un rôle clé dans la construction d'une société plus innovante, coopérative et respectueuse de l'environnement. 
+
+![photo Palette](images/WhatsApp Image 2023-08-27 at 23.40.04 (1).jpeg) 
