@@ -5,7 +5,7 @@ order: 1
 # _Des Palettes Plein Les Yeux_ 
 c'est le nouveau festival de la rentrée.
 Et c'est sa toute première édition!
-! [affiche festival](images/afficheDPPLY.png)
+![Affiche du festival](images/afficheDPPLY.png)
 Au cœur du nouveau tiers-lieu, La Palette, on vous concocte un week-end bucolique avec une programmation culturelle riche et fun, faite de spectacles, de concerts, d'impromptus, d'ateliers, d'exposition...
 Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster les bières de la brasserie de La Palette.
 Billetterie :
