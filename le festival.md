@@ -3,9 +3,12 @@ title: "Le Festival"
 order: 1
 ---
 # _Des Palettes Plein Les Yeux_ 
-c'est le nouveau festival de la rentrée.
+
+C'est le nouveau festival de la rentrée à Longvilliers.
 Et c'est sa toute première édition!
+
 ![Affiche du festival](images/afficheDPPLY.png)
+
 Au cœur du nouveau tiers-lieu, La Palette, 
 on vous concocte un week-end bucolique avec une programmation culturelle riche et fun, 
 faite de spectacles, de concerts, d'impromptus, d'ateliers, d'exposition...
