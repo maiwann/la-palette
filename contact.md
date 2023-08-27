@@ -2,15 +2,17 @@
 title: "Contact"
 order: 1
 ---
-Coordination du projet
-
+Coordination du projet  
 claire@lapalette.org
 
 
-Programmation artistique et contact festival
-
+Programmation artistique et contact festival  
 chloe@lapalette.org 
 
+
+Micro-brasserie
+anais@lapalette.org  
+agathe@lapalette.org
 
 
 La Palette
