@@ -10,9 +10,9 @@ Programmation artistique et contact festival
 chloe@lapalette.org 
 
 
-Micro-brasserie
+Micro-brasserie  
 anais@lapalette.org  
-agathe@lapalette.org
+agathe@lapalette.org  
 
 
 La Palette
