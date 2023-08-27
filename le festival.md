@@ -15,8 +15,7 @@ faite de spectacles, de concerts, d'impromptus, d'ateliers, d'exposition...
 
 Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster les bières de la brasserie de La Palette.
 
-Billetterie :
-https://www.helloasso.com/associations/association-pour-la-palette/evenements/billetterie-des-palettes-plein-les-yeux
+Pour accéder à la billetterie, [c'est ici !](https://www.helloasso.com/associations/association-pour-la-palette/evenements/billetterie-des-palettes-plein-les-yeux)
 
 ## **Samedi 30 septembre**
 
