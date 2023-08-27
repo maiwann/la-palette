@@ -6,8 +6,12 @@ order: 1
 c'est le nouveau festival de la rentrée.
 Et c'est sa toute première édition!
 ![Affiche du festival](images/afficheDPPLY.png)
-Au cœur du nouveau tiers-lieu, La Palette, on vous concocte un week-end bucolique avec une programmation culturelle riche et fun, faite de spectacles, de concerts, d'impromptus, d'ateliers, d'exposition...
+Au cœur du nouveau tiers-lieu, La Palette, 
+on vous concocte un week-end bucolique avec une programmation culturelle riche et fun, 
+faite de spectacles, de concerts, d'impromptus, d'ateliers, d'exposition...
+
 Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster les bières de la brasserie de La Palette.
+
 Billetterie :
 https://www.helloasso.com/associations/association-pour-la-palette/evenements/billetterie-des-palettes-plein-les-yeux
 
@@ -23,7 +27,7 @@ GlounTéko est un personnage aux allures de Charlie Chaplin avec un bancal de mo
 
 https://www.youtube.com/watch?v=pJr5Rt6gNfk
 
-### 18h : Les Enfants de La Destinée - Cie Fais-Le Moi-Même
+### 18h : _Les Enfants de La Destinée_ - Cie Fais-Le Moi-Même
 
 C’est un spectacle qui s’adresse à ceux qui ne sont plus des enfants, pour leur proposer de regarder derrière eux. Demandons nous si on a tenu les promesses de nos ambitions naïves.
 Et pour questionner nos destinées, on convoque des histoires vraies. Celles de quatre femmes, toutes musiciennes, qui avaient des rêves qu’elles n’ont pas atteint, des destins contrariées, des accidents de parcours. Mais toutes ont su, à leurs manières, faire un saut de biche au dessus des croche-pieds.C’est une galerie de portraits : on va vous parler de ce petit panthéon qu’on punaise sur les murs de nos chambres de grands enfants pour nous donner envie de croire en quelque chose.
@@ -31,7 +35,7 @@ Et tout ça se fait avec un rétro-projecteur d’antan, une guitare électrique
 
 https://www.youtube.com/watch?v=O2ERxNmiDUI
 
-###20h : Concert : La Bête (gratuit)
+### 20h : Concert : La Bête (gratuit)
 
 Trio hybride, venu tout droit d’un Calais-monde dont elles sont empreintes, La Bête rugit. Guitaristes, bassistes, beatmakeuses, accordéonistes, banjoïstes, chanteuses, elles explorent leur palette musicale cosmopolite et populaire, aux sonorités rock, traditionnelles et électroniques. Elles mêlent accidentel humain et pulsations trip-hop.
 Les textes chantés à trois voix parlent d’elles, d’autres, de nous, parfois. Elles exaltent leur puissance, cassent des codes, brandissant leurs utopies réelles et inclusives, le poing levé.
