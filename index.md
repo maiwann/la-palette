@@ -6,7 +6,7 @@ order: 0
 
 # La Palette. 
 
-Le projet de La Palette est en construction.  
+## Le projet de La Palette est en construction.  
 (Ce site aussi). 
 
  On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.  
