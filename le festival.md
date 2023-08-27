@@ -62,9 +62,9 @@ Les textes chantés à trois voix parlent d’elles, d’autres, de nous, parfoi
 
 ![affiche Jamais on ](images/affiche - jamais on.jpeg)
 
-A travers ce deuxième spectacle de la Cie Fais-Le Moi-Même, Maxime Arnault continue d'interroger son thème de prédilection, la maison.  
+A travers ce deuxième spectacle de la _Cie Fais-Le Moi-Même_, Maxime Arnault continue d'interroger son thème de prédilection, la maison.  
 Avec ce "dessin nimé" musical, pop et gribouillé, Maxime, tour à tour, dessinateur, chanteur, marionnettiste ou bricoleur, prouve qu'avec trois bouts de ficelle il est possible de créer des images fortes et poétiques.  
-Jamais On ravira, entre autres, les amateurs de rétroprojecteur, de papier découpé, des Beatles, de ciel étoilé, de cassette audio, de pop japonaise et d'Evelyne Dhéliat.
+_Jamais On_ ravira, entre autres, les amateurs de rétroprojecteur, de papier découpé, des Beatles, de ciel étoilé, de cassette audio, de pop japonaise et d'Evelyne Dhéliat.
 
 
 ### 11h30 : Atelier Arts Plastiques avec Catherine Slowick autour de l'exposition de Dominique Lemoine (gratuit)
