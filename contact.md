@@ -15,6 +15,8 @@ anais@lapalette.org
 agathe@lapalette.org  
 
 
-La Palette
-3 route de Frencq
+
+
+La Palette  
+3 route de Frencq  
 62630 Longvilliers 
