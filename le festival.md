@@ -43,20 +43,26 @@ Et tout ça se fait avec un rétro-projecteur d’antan, une guitare électrique
 Trio hybride, venu tout droit d’un Calais-monde dont elles sont empreintes, La Bête rugit. Guitaristes, bassistes, beatmakeuses, accordéonistes, banjoïstes, chanteuses, elles explorent leur palette musicale cosmopolite et populaire, aux sonorités rock, traditionnelles et électroniques. Elles mêlent accidentel humain et pulsations trip-hop.
 Les textes chantés à trois voix parlent d’elles, d’autres, de nous, parfois. Elles exaltent leur puissance, cassent des codes, brandissant leurs utopies réelles et inclusives, le poing levé.
 
-https://www.youtube.com/watch?v=7qLA2gkqCNg
+<iframe width="1079" height="607" src="https://www.youtube.com/embed/7qLA2gkqCNg" title="Au Coeur de la Bête (live session)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Dimanche 1er octobre
 
 ### 11h : _Jamais On_ - Cie Fais-Le Moi-Même
+
+![affiche Jamais on ](images/affiche - jamais on.jpeg)
+
 A travers ce deuxième spectacle de la Cie Fais-Le Moi-Même, Maxime Arnault continue d'interroger son thème de prédilection, la maison.Avec ce "dessin nimé" musical, pop et gribouillé, Maxime, tour à tour, dessinateur, chanteur, marionnettiste ou bricoleur, prouve qu'avec trois bouts de ficelle il est possible de créer des images fortes et poétiques.Jamais On ravira, entre autres, les amateurs de rétroprojecteur, de papier découpé, des Beatles, de ciel étoilé, de cassette audio, de pop japonaise et d'Evelyne Dhéliat.
 
 ### 11h30 : Atelier Arts Plastiques avec Catherine Slowick autour de l'exposition de Dominique Lemoine (gratuit)
 
 ### 14h : Concert pour toute la famille : _Les Frères Wall & Gain_ (gratuit)
+
+![visuel frères Wall&Gain](images/wall & gain.jpg)
+
 La musique adoucit les mœurs : la preuve.Les frères Wall&Gain chantent depuis longtemps dans une pure tradition américaine appelée Hillbilly (traduire : “les idiots du village”).Avant, ils étaient bêtes et méchants.Maintenant ils sont juste bêtes.Émotions, chapeaux, banjo, poule, fourchette, petit cœur.Pour toute la famille.
 
 ### 16h : Concert : _Feu Minéral_ (gratuit)
 
 Délicat et absorbant, le duo francophone Feu Minéral agit comme stabilisateur émotionnel, autour d'une folk pop aérée libérant la place aux mots coécrits et portés par les voix d'Anaïs Delmoitiez et Benoît Bourgeois.Deux voix interrogeant les pensées, démêlant la confusion des sentiments, recherchant l'harmonie et intensifiant les états de l'âme lorsqu'elles raisonnent à l'unisson.Dans cette époque contrainte par le repli sur soi, l'urgence et la fulgurance de la rencontre de ces deux artistes marqués au fer rouge poussent les auditeurs à se tourner vers le large.Un voyage main dans la main pour se libérer du passé et progresser ensemble vers un chemin plus sûr, léger, où tombent les inhibitions, dans une croyance profonde en l'être humain et l'avenir.Un shoot de poésie, d'amour en perspective !A peine quelques mois après la naissance de leur duo, les deux artistes, originaires du Pas de calais, livrent le fruit de leurs travaux dans une démo 6 titres qui les propulsera à l’Aéronef de Lille en ouverture de Gaétan Roussel pour leur premier concert.Une version bêta phono et live, dévoilant pleinement le potentiel des chansons et, ouvrant la perspective d'un premier album prévu pour le 28 septembre 2023.Ils aiment Angus et Julia Stone autant que France Gall et Michel Berger, autant The Civil Wars que Thérapie Taxi.Feu Minéral, c'est pop, c'est folk, ça pleure, ça rit, ça chante, ça vit !
 
-https://www.youtube.com/watch?v=SyWdbRG9DRk 
+<iframe width="1079" height="607" src="https://www.youtube.com/embed/SyWdbRG9DRk" title="Feu Minéral - Le Clip (Officiel) #popfolk #frenchpop #pasdecalais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
