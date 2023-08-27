@@ -4,7 +4,6 @@ order: 0
 ---
 ![logo la Palette](images/LA PALETTE logo noir.png)
 
-# La Palette. 
 
 ## Le projet de La Palette est en construction.  
 (Ce site aussi). 
