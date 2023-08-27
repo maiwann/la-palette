@@ -27,7 +27,8 @@ Atelier d'arts plastiques avec Catherine Slowick
 
 GlounTéko est un personnage aux allures de Charlie Chaplin avec un bancal de monde dans le corps. Chez lui tout s’emmêle et tout s’échappe, et lorsque ses objets, son corps ou sa langue commencent à lui jouer des tours, son spectacle prend l'allure d'un beau bordel à déficeler. Mais derrière son apparente naïveté, la virtuosité n'est jamais bien loin. Avec une gestuelle s’approchant parfois du mime,parfois de la danse et que parfois on ne sait plus trop, il offre un jeu de situation dans lequel il se révèle jongleur, danseur et bluesman. A son insu il devient clown, laissant apparaître une poésie de l’absurde où la renverse se logique et les zygomatiques se relèvent.
 
-https://www.youtube.com/watch?v=pJr5Rt6gNfk
+
+<iframe width="1079" height="607" src="https://www.youtube.com/embed/pJr5Rt6gNfk" title="Teaser GlounTéKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 18h : _Les Enfants de La Destinée_ - Cie Fais-Le Moi-Même
 
@@ -35,7 +36,7 @@ C’est un spectacle qui s’adresse à ceux qui ne sont plus des enfants, pour 
 Et pour questionner nos destinées, on convoque des histoires vraies. Celles de quatre femmes, toutes musiciennes, qui avaient des rêves qu’elles n’ont pas atteint, des destins contrariées, des accidents de parcours. Mais toutes ont su, à leurs manières, faire un saut de biche au dessus des croche-pieds.C’est une galerie de portraits : on va vous parler de ce petit panthéon qu’on punaise sur les murs de nos chambres de grands enfants pour nous donner envie de croire en quelque chose.
 Et tout ça se fait avec un rétro-projecteur d’antan, une guitare électrique, une paire de ciseaux ,un écran blanc et 2 ampoules.
 
-https://www.youtube.com/watch?v=O2ERxNmiDUI
+<iframe width="1079" height="607" src="https://www.youtube.com/embed/O2ERxNmiDUI" title="Les Enfants de la Destinée : Cie Fais Le Moi Même" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 20h : Concert : _La Bête_ (gratuit)
 
