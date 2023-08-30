@@ -10,7 +10,4 @@ order: 4
 ![photo bière](images/Diapositive6.jpeg)   
 ![photo bière](images/Diapositive7.jpeg)   
 ![photo bière](images/Diapositive8.jpeg)   
-![photo bière](images/Diapositive9.jpeg)   
-![photo bière](images/Diapositive10.jpeg)   
-![photo bière](images/Diapositive11.jpeg)    
 ![photo bière](images/Diapositive12.jpeg) 
