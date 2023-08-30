@@ -22,3 +22,6 @@ Et on rigole bien.
 …A suivre…
 
 ![photo Palette](images/WhatsApp Image 2023-08-27 at 23.40.04 (1).jpeg) 
+
+
+La Palette - 3 route de Frencq - 62630 Longvilliers 
