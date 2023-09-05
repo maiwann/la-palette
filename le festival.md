@@ -29,7 +29,8 @@ Exposition de l'artiste Dominique Lemoine
 
 Atelier d'arts plastiques avec Catherine Slowick
 
-### 16h : _GlounTéko_ - Compagnie Cirque Inachevé - à partir de 5 ans
+### 16h : _GlounTéko_ - Compagnie Cirque Inachevé 
+Tout public à partir de 5 ans
 
 GlounTéko est un personnage aux allures de Charlie Chaplin avec un bancal de monde dans le corps.  
 Chez lui tout s’emmêle et tout s’échappe, et lorsque ses objets, son corps ou sa langue commencent à lui jouer des tours, son spectacle prend l'allure d'un beau bordel à déficeler. Mais derrière son apparente naïveté, la virtuosité n'est jamais bien loin.  
@@ -38,10 +39,11 @@ Avec une gestuelle s’approchant parfois du mime,parfois de la danse et que par
 
 <iframe width="1079" height="607" src="https://www.youtube.com/embed/pJr5Rt6gNfk" title="Teaser GlounTéKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 18h : _Les Enfants de La Destinée_ - Cie Fais-Le Moi-Même - à partir de 10 ans
+### 18h : _Les Enfants de La Destinée_ - Cie Fais-Le Moi-Même 
+Tout public, à partir de 10 ans
 
 C’est un spectacle qui s’adresse à ceux qui ne sont plus des enfants, pour leur proposer de regarder derrière eux. Demandons nous si on a tenu les promesses de nos ambitions naïves.  
-Et pour questionner nos destinées, on convoque des histoires vraies. Celles de quatre femmes, toutes musiciennes, qui avaient des rêves qu’elles n’ont pas atteint, des destins contrariées, des accidents de parcours. Mais toutes ont su, à leurs manières, faire un saut de biche au dessus des croche-pieds.  
+Et pour questionner nos destinées, on convoque des histoires vraies. Celles de quatre femmes, toutes musiciennes, qui avaient des rêves qu’elles n’ont pas atteint, des destins contrariés, des accidents de parcours. Mais toutes ont su, à leurs manières, faire un saut de biche au dessus des croche-pieds.  
 C’est une galerie de portraits : on va vous parler de ce petit panthéon qu’on punaise sur les murs de nos chambres de grands enfants pour nous donner envie de croire en quelque chose.  
 Et tout ça se fait avec un rétro-projecteur d’antan, une guitare électrique, une paire de ciseaux, un écran blanc et 2 ampoules.
 
@@ -58,7 +60,8 @@ Les textes chantés à trois voix parlent d’elles, d’autres, de nous, parfoi
 
 ## Dimanche 1er octobre
 
-### 11h : _Jamais On_ - Cie Fais-Le Moi-Même - à partir de 3 ans
+### 11h : _Jamais On_ - Cie Fais-Le Moi-Même 
+Jeune public, à partir de 3 ans
 
 ![affiche Jamais on ](images/affiche - jamais on.jpeg)
 
@@ -66,8 +69,19 @@ A travers ce deuxième spectacle de la _Cie Fais-Le Moi-Même_, Maxime Arnault c
 Avec ce "dessin nimé" musical, pop et gribouillé, Maxime, tour à tour, dessinateur, chanteur, marionnettiste ou bricoleur, prouve qu'avec trois bouts de ficelle il est possible de créer des images fortes et poétiques.  
 _Jamais On_ ravira, entre autres, les amateurs de rétroprojecteur, de papier découpé, des Beatles, de ciel étoilé, de cassette audio, de pop japonaise et d'Evelyne Dhéliat.
 
+### 11h30 : _Le Bureau Détimbré_ - Cie L'Arrêt Création (gratuit)
 
-### 11h30 : Atelier Arts Plastiques avec Catherine Slowick autour de l'exposition de Dominique Lemoine (gratuit)
+![visuel bureau détimbré](images/Copie de BureauDetimbre@Julie Forquet (1).jpg)
+
+Messages d’amour ou d’amitié, insolites ou poétiques, déclarations publiques ou formats plus intimistes, le public qui le souhaite est invité, chacun leur tour, à confier leurs mots doux et leurs pensées aux factrices et facteurs du Bureau Détimbré !
+
+Avec bagou et gaîté, les membres du Bureau Détimbré chercheront parmi les personnes présentes sur les lieux, l’être cher.e qui aura été choisi pour créer la surprise et délivrer leur message dans un impromptu artistique.
+
+ 
+### 11h30 : Atelier Arts Plastiques avec Catherine Slowick autour de l'exposition de Dominique Lemoine (gratuit)  
+De 3 ans à 8 ans (accompagné d'un adulte)  
+
+![visuel Dominique Lemoine](images/Dominie lemoine.jpg)
 
 
 ### 14h : Concert pour toute la famille : _Les Frères Wall & Gain_ (gratuit)
