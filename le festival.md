@@ -60,6 +60,14 @@ Les textes chantés à trois voix parlent d’elles, d’autres, de nous, parfoi
 
 ## Dimanche 1er octobre
 
+### 10h : _Fresque du climat_
+
+![visuel fresque du climat](images/fresque.jpg)  
+Atelier d’intelligence collective à destination des adultes pour comprendre les causes et conséquences du changement climatique.  
+Plus d'infos [ici](https://association.climatefresk.org/training_sessions/6b4a2aed-19b8-45d3-931e-3224c6647682/show_public?language=fr&tenant_token=36bd2274d3982262c0021755)  
+A partir de 14 ans. 
+Durée 3h
+
 ### 11h : _Jamais On_ - Cie Fais-Le Moi-Même 
 Jeune public, à partir de 3 ans
 
