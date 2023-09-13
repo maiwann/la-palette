@@ -17,7 +17,7 @@ Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster
 
 # Pour accéder à la billetterie, [c'est ici !](https://www.helloasso.com/associations/association-pour-la-palette/evenements/billetterie-des-palettes-plein-les-yeux)
 
-## Tout le week-end en continu :  
+### Tout le week-end en continu :  
 
 * Bar (où sera servi ma Tante Claire, la bière de la Palette!!)  
 et Restauration sur place
