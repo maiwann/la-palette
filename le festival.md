@@ -17,17 +17,27 @@ Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster
 
 # Pour accéder à la billetterie, [c'est ici !](https://www.helloasso.com/associations/association-pour-la-palette/evenements/billetterie-des-palettes-plein-les-yeux)
 
+## Tout le week-end en continu :  
+
+* Bar (où sera servi ma Tante Claire, la bière de la Palette!!)  
+et Restauration sur place
+
+* Stands :  
+- Librairie éphémère "Fenêtres sur livres"  
+- Chocolats fabriqués à Longvilliers "Campagnes et Chocolats"   
+- Jeux en bois
+
+* Exposition de l'artiste Dominique Lemoine 
+
+
 ## **Samedi 30 septembre**
 
 ### 13h30 : Ouverture des portes
 
-Bar (où sera servi ma Tante Claire, la bière de la Palette!!)
+### 14h30 : Atelier Arts Plastiques avec Catherine Slowick autour de l'exposition de Dominique Lemoine (gratuit)  
+De 3 ans à 8 ans (accompagné d'un adulte)  
 
-Stands (librairie, chocolats, jeux en bois, etc)
-
-Exposition de l'artiste Dominique Lemoine 
-
-Atelier d'arts plastiques avec Catherine Slowick
+![visuel Dominique Lemoine](images/Dominie lemoine.jpg)
 
 ### 16h : _GlounTéko_ - Compagnie Cirque Inachevé 
 Tout public à partir de 5 ans
@@ -91,6 +101,7 @@ De 3 ans à 8 ans (accompagné d'un adulte)
 
 ![visuel Dominique Lemoine](images/Dominie lemoine.jpg)
 
+## Bar et restauration sur place  
 
 ### 14h : Concert pour toute la famille : _Les Frères Wall & Gain_ (gratuit)
 
