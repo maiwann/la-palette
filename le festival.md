@@ -23,9 +23,9 @@ Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster
 et Restauration sur place
 
 * Stands :  
-- Librairie éphémère "Fenêtres sur livres"  
-- Chocolats fabriqués à Longvilliers "Campagnes et Chocolats"   
-- Jeux en bois
+  - Librairie éphémère "Fenêtres sur livres"
+  - Chocolats fabriqués à Longvilliers "Campagnes et Chocolats"
+  - Jeux en bois
 
 * Exposition de l'artiste Dominique Lemoine 
 
