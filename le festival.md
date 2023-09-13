@@ -19,8 +19,8 @@ Vous trouverez aussi un espace de bar et restauration où vous pourrez déguster
 
 ### _Tout le week-end en continu_ :  
 
-* Bar (où sera servi ma Tante Claire, la bière de la Palette!!)  
-et Restauration sur place
+* **Bar** (où sera servi ma Tante Claire, la bière de la Palette!!)  
+et **Restauration** sur place
 
 * Stands :  
   - Librairie éphémère "Fenêtres sur livres"
