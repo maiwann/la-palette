@@ -40,7 +40,7 @@ De 3 ans à 8 ans (accompagné d'un adulte)
 ![visuel Dominique Lemoine](images/Dominie lemoine.jpg)
 
 ### 16h : _GlounTéko_ - Compagnie Cirque Inachevé 
-Tout public à partir de 5 ans
+Tout public à partir de 5 ans - 7€ / 5€
 
 GlounTéko est un personnage aux allures de Charlie Chaplin avec un bancal de monde dans le corps.  
 Chez lui tout s’emmêle et tout s’échappe, et lorsque ses objets, son corps ou sa langue commencent à lui jouer des tours, son spectacle prend l'allure d'un beau bordel à déficeler. Mais derrière son apparente naïveté, la virtuosité n'est jamais bien loin.  
@@ -50,7 +50,7 @@ Avec une gestuelle s’approchant parfois du mime,parfois de la danse et que par
 <iframe width="1079" height="607" src="https://www.youtube.com/embed/pJr5Rt6gNfk" title="Teaser GlounTéKo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 18h : _Les Enfants de La Destinée_ - Cie Fais-Le Moi-Même 
-Tout public, à partir de 10 ans
+Tout public, à partir de 10 ans - 7€ / 5€
 
 C’est un spectacle qui s’adresse à ceux qui ne sont plus des enfants, pour leur proposer de regarder derrière eux. Demandons nous si on a tenu les promesses de nos ambitions naïves.  
 Et pour questionner nos destinées, on convoque des histoires vraies. Celles de quatre femmes, toutes musiciennes, qui avaient des rêves qu’elles n’ont pas atteint, des destins contrariés, des accidents de parcours. Mais toutes ont su, à leurs manières, faire un saut de biche au dessus des croche-pieds.  
@@ -70,7 +70,7 @@ Les textes chantés à trois voix parlent d’elles, d’autres, de nous, parfoi
 
 ## Dimanche 1er octobre
 
-### 10h : _Fresque du climat_
+### 10h : _Fresque du climat_ Gratuit
 
 ![visuel fresque du climat](images/fresque.jpg)  
 Atelier d’intelligence collective à destination des adultes pour comprendre les causes et conséquences du changement climatique.  
@@ -79,7 +79,7 @@ A partir de 14 ans.
 Durée 3h
 
 ### 11h : _Jamais On_ - Cie Fais-Le Moi-Même 
-Jeune public, à partir de 3 ans
+Jeune public, à partir de 3 ans - 5€
 
 ![affiche Jamais on ](images/affiche - jamais on.jpeg)
 
