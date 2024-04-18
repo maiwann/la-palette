@@ -8,8 +8,8 @@ order: 0
 ## Le projet de La Palette est en construction.  
 (Ce site aussi). 
 
- On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.  
-On a surtout un lieu qui offre plein de possibilités.   
+On a beaucoup d’envies, beaucoup d’énergie et un peu de temps.  
+On a surtout un lieu qui offre plein de possibilités.  
 Les projets déjà enclenchés sont les suivants :   
 -une micro-brasserie  
 -une programmation culturelle  
